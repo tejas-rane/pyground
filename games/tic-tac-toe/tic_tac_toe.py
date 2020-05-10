@@ -45,10 +45,8 @@ def space_check(board, pos):
 
 
 def full_board_check(board):
-    for i in range(1, 10):
-        if space_check(board, i):
-            return False
-
+    if " " in board[1:]:
+        return False
     return True
 
 
