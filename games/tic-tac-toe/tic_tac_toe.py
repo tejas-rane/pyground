@@ -141,3 +141,9 @@ while True:
 # p1_marker, p2_marker = player_input()
 # place_marker(test_board, 'X', 8)
 # display_board(test_board)
+# sample output:
+# X | |O
+#   |O|X
+# O | |X
+# Tyler has won!!!!
+# Play Again? Enter only y/n
