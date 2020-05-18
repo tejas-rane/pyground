@@ -10,4 +10,4 @@ class Solution:
 
 
 s = Solution()
-print(s.decompressRLElist([1, 2, 3, 4, 6, 7, 1, 3, 3, 1]))
+print(s.decompressRLElist([1, 2, 3, 4, 6, 7, 1, 3, 3]))
