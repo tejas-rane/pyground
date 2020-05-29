@@ -17,5 +17,6 @@ class Solution:
         else:
             return None
 
-s = Solution()
-print(s.searchBST([4,2,7,1,3],2))
+# s = Solution()
+# print(s.searchBST([4,2,7,1,3],2))
+# these inputs work in leetcode as they get converted to a valid tree before running solution

@@ -8,6 +8,7 @@ class Solution:
         return out                   
         # dict = {}
         # out = []
+        
         # for num in nums:
         #     if num in dict:
         #         dict[num] += 1
